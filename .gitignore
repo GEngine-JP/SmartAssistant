@@ -6,7 +6,9 @@
 *.lo
 *.o
 *.obj
-
+.vscode
+cmake-build-debug
+*.code-workspace
 # Precompiled Headers
 *.gch
 *.pch
