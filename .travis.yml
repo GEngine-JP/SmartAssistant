@@ -1,0 +1,17 @@
+language: csharp
+solution: SmartAssistant.sln
+sudo: false
+
+branches:
+  only:
+  - master
+  
+script:
+  - ruby -e "puts 'Hello world!'"
+after_script:
+  - git init
+  - git config user.name "xiaomo"
+  - git config user.email "xiaomo@xiaomo.info"
+  - git add .
+  - git commit -m "automated build SmartAssistant"
+  - git push --quiet --force https://${REPO_TOKEN}@github.com/GameUnion/SmartAssistant.git master:gh-pages
