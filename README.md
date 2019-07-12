@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/GameUnion/SmartAssistant.svg?branch=master)](https://travis-ci.org/GameUnion/SmartAssistant)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/GameUnion/SmartAssistant/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-apache-blue.svg)](https://raw.githubusercontent.com/GameUnion/SmartAssistant/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/GameUnion/SmartAssistant.svg)](https://github.com/GameUnion/SmartAssistant/issues)
 
-功能
+## 功能
 • AI智能应答
 - ○ 查询天气
 - ○ 记录todoList
