@@ -1,2 +1,2 @@
 # SmartAssistant
-結衣ちゃん
+明日奈
