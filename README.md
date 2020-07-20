@@ -2,7 +2,6 @@
 [![GitHub license](https://img.shields.io/badge/license-apache-blue.svg)](https://raw.githubusercontent.com/GameUnion/SmartAssistant/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/GameUnion/SmartAssistant.svg)](https://github.com/GameUnion/SmartAssistant/issues)
 
-<iframe src="https://discordapp.com/widget?id=734698478575288320&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## 功能
 • AI智能应答
